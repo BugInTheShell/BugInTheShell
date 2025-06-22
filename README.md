@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Esteban Galvánl</h1>
+<h1 align="center">Hola 👋, soy Esteban Galván</h1>
 <h3 align="center">cowsay "comandos, nada les gana" | lolcat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugintheshell&label=Profile%20views&color=0e75b6&style=flat" alt="bugintheshell" /> </p>
