@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, soy Esteban Galván</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Esteban+Galván+Rodriguez;Desarrollador+Full+Stack;Ready+to+work!)](https://git.io/typing-svg)
 <h3 align="center"><code>cowsay "comandos, nada les gana" | lolcat</code></h3>
 
 <br>
@@ -57,8 +58,6 @@
 </p>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Esteban+Galván+Rodriguez;Desarrollador+Full+Stack;Ready+to+work!)](https://git.io/typing-svg)
 
 
 ### Contact:
