@@ -67,7 +67,7 @@
 # Hello, my name is Esteban Galván
 ### Desarrollador Full Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Israel+Hernandez+Dorantes;Computer+Science+Student;Ready+to+work!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Esteban+Galván+Rodriguez;Desarrollador+Full+Stack;Ready+to+work!)](https://git.io/typing-svg)
 
 
 ### Contact:
