@@ -1,6 +1,9 @@
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Esteban+Galván+Rodriguez;Desarrollador+Full+Stack;Ready+to+work!)](https://git.io/typing-svg)
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Esteban+Galván+Rodriguez;Desarrollador+Full+Stack;Ready+to+work!" alt="Typing SVG" />
+  </a>
+</div>
+
 <h3 align="center"><code>cowsay "comandos, nada les gana" | lolcat</code></h3>
 
 <br>
