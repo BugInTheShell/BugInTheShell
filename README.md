@@ -31,8 +31,6 @@
   </a>
 </p>
 
-[<img align="bottom" alt="website" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
