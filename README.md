@@ -70,5 +70,5 @@
 
 </details>
 
-[website]: https://israelhernandez.netlify.app/
-[linkedin]: www.linkedin.com/in/israel-hernandez-dorantes-601810228
+[website]: https://bugintheshell.github.io/Portafolio
+[linkedin]: https://www.linkedin.com/in/esteban-galv%C3%A1n-48391a370/
