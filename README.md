@@ -58,15 +58,6 @@
 
 <br>
 
-<h3>📊 Estadísticas:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugintheshell&show_icons=true&locale=en&layout=compact" alt="bugintheshell" />
-</p>
-
-
-# Hello, my name is Esteban Galván
-### Desarrollador Full Stack
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Esteban+Galván+Rodriguez;Desarrollador+Full+Stack;Ready+to+work!)](https://git.io/typing-svg)
 
 
