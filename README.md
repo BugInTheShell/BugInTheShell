@@ -24,12 +24,14 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/esteban-galván-rodríguez-981b78253" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Esteban Galván" height="30" width="40" />
   </a>
 </p>
+
+[<img align="bottom" alt="website" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 
 <br>
 
@@ -63,12 +65,6 @@
 
 <br>
 
-
-### Contact:
-
-[<img align="bottom" alt="website" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
 <br />
 
 ### Languages and Tools:
@@ -134,6 +130,4 @@ __Development Tools__
 </details>
 
 [website]: https://israelhernandez.netlify.app/
-[Facebook]: https://www.facebook.com/israel.hernandezdorantes
 [linkedin]: www.linkedin.com/in/israel-hernandez-dorantes-601810228
-[web]:  https://www.google.com/
